@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo ao meu perfil! 
 
-<img align="right" alt="GersonPIC" height="150" style="border-radius:50px;" src="https://discord.com/channels/778410628201054238/778410628201054240/1031023503119503370?width=676&height=676">
+<img align="right" alt="GersonPIC" height="150" style="border-radius:50px;" src="[https://uploaddeimagens.com.br/imagens/TU56nsI">
 
 - 🔭 Hoje trabalho como professor de robótica
 - 🌱 Estudando fullstack
