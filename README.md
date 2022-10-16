@@ -1,7 +1,7 @@
 ## Opa! Seja bem-vindo ao meu perfil! 
 
 <div>
-  <img align = "left" alt="GersonPIC" height="370" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/778410628201054240/1031023502729420800/fogo.png">
+  <img align = "left" alt="GersonPIC" height="360" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/778410628201054240/1031023502729420800/fogo.png">
 
   <a href="https://www.linkedin.com/in/gerson-da-silva-monteiro-durães-de-souza-138315178/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GersuD-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
