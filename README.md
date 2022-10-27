@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/gerson-da-silva-monteiro-durães-de-souza-138315178/">
 </div>
 
-##
-
 <div align="center" style="display: inline_block" ><br>
   <div align="center">
   Tecnologias que utilizo
